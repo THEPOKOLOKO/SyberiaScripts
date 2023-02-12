@@ -1,4 +1,0 @@
-class SyberiaObjectiveZone extends BuildingSuper
-{
-
-};
